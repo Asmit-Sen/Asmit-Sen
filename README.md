@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
+
 # 💫 About Me:
 Pre-final year CS student<br><br>Won 3x Competitive Coding Events<br>- Code Ignition (2024)<br>- Innovision (2025)<br>- Top 5, Code Clash @IIITV (2025)<br><br>Blockchain Lead @IgniteX, RCCIIT
 
